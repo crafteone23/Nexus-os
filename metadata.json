@@ -1,0 +1,13 @@
+{
+  "name": "Nexus-AI OS",
+  "description": "A universal, Android-compatible AI-powered operating system simulator with advanced networking and media features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "AI-powered orchestration",
+    "Advanced networking simulation",
+    "Hybrid Android-Desktop UI"
+  ]
+}
